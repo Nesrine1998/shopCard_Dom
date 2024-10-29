@@ -1,0 +1,51 @@
+#card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap:20px;
+
+    padding: 20px;
+
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: flex-end;
+    gap: 600px
+}
+
+.articles{
+    display: flex;
+    justify-content: center;
+    gap: 100px
+}
+.item{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 200px
+}
+.like {
+    background: none; /* Pas de fond */
+    border: none; /* Pas de bordure */
+    cursor: pointer; /* Curseur pointeur */
+    font-size: 24px; /* Taille du cœur */
+    color: black; /* Couleur par défaut (noir) */
+    transition: color 0.3s; /* Transition douce */
+}
+
+.liked {
+    color: red; /* Couleur rouge lorsque le cœur est aimé */
+}
+/* .like {
+    background: none; 
+    border: none;
+    cursor: pointer; 
+    font-size: 24px; 
+    color: #555;
+    transition: color 0.3s; 
+}
+
+.like:hover {
+    color: #f00; 
+} */
