@@ -25,36 +25,3 @@
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     padding: 200px
 }
-/* button.like {
-    background: none;
-    border: none;
-    font-size: 20px;
-    color: black; 
-}
-
-button.like.liked {
-    color: red;
-} */
-
-/* .like {
-    background: none; 
-    border: none; 
-    cursor: pointer; 
-    font-size: 24px; 
-    color: black; 
-    transition: color 0.3s; 
-} */
-
-
-/* .like {
-    background: none; 
-    border: none;
-    cursor: pointer; 
-    font-size: 24px; 
-    color: #555;
-    transition: color 0.3s; 
-}
-
-.like:hover {
-    color: #f00; 
-} */
