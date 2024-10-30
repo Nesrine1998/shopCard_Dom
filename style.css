@@ -25,18 +25,27 @@
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     padding: 200px
 }
-.like {
-    background: none; /* Pas de fond */
-    border: none; /* Pas de bordure */
-    cursor: pointer; /* Curseur pointeur */
-    font-size: 24px; /* Taille du cœur */
-    color: black; /* Couleur par défaut (noir) */
-    transition: color 0.3s; /* Transition douce */
+/* button.like {
+    background: none;
+    border: none;
+    font-size: 20px;
+    color: black; 
 }
 
-.liked {
-    color: red; /* Couleur rouge lorsque le cœur est aimé */
-}
+button.like.liked {
+    color: red;
+} */
+
+/* .like {
+    background: none; 
+    border: none; 
+    cursor: pointer; 
+    font-size: 24px; 
+    color: black; 
+    transition: color 0.3s; 
+} */
+
+
 /* .like {
     background: none; 
     border: none;
